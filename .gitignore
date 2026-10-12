@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Secrets / environment
+.env
+.env.*
+!.env.example
+
+# User data (learned custom rules are local-only)
+custom_rules.txt
+
+# Logs
+*.log
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini

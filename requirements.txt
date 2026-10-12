@@ -1,0 +1,4 @@
+pystray>=0.19
+pyperclip>=1.8
+pillow>=10.0
+requests>=2.31
